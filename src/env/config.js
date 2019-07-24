@@ -1,5 +1,5 @@
 const Config = {
-  server: 'http://origin-creative-studio.com:8081',
+  server: '<API-SERVER>',
 };
 
 export default Config;
